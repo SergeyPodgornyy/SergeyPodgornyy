@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [go migrator](https://github.com/larapulse/migrator)
 
-- 🌱 I’m currently learning **Algorithms and Data structures in Go**
+- 🌱 I’m currently learning **Forecasting and ML**
 
-- 📝 I regularly write articles on [https://dev.to/sergeypodgornyy](https://dev.to/sergeypodgornyy)
+- 📝 I regularly write articles on [dev.to](https://dev.to/sergeypodgornyy) and [Medium](https://medium.com/@sergey.podgorny)
 
-- 💬 Ask me about **php, go and react.js**
+- 💬 Ask me about **php, go, python and react.js**
 
-- 📄 Know about my experiences [https://podgornyy.rocks/](https://podgornyy.rocks/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/sergey-podgorny-5ab63385/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,7 +41,7 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> &nbsp;
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> &nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> &nbsp;
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a> &nbsp;
+<!-- <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a> &nbsp; -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> &nbsp;
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a> &nbsp;
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> &nbsp;
